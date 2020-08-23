@@ -16,3 +16,5 @@ INSTALLATION:
    And keep "models","protobuf" and "cob_perception_common" under one folder for simplicity.
 
 After installation you can add the code in models directory.
+
+Refer the sample output in this link: https://youtu.be/FlyQmr6EUUI 
