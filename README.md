@@ -17,6 +17,6 @@ After installation you can add the code in object_detection folder.
 
 Output video in this [link](https://youtu.be/YrKjUU2zmZU)
 
-![screenshot](
+![screenshot](https://github.com/M-Ashmitha/object_detection_ros/blob/master/Screenshot%20from%202020-08-24%2014-49-45.png)
 
 
