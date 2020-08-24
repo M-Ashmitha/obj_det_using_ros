@@ -15,8 +15,6 @@ I have done this project as an intern in qbotics lab
 
 After installation you can add the code in object_detection folder.
 
-Output video in this [link](https://youtu.be/YrKjUU2zmZU)
-
 [![click here](https://github.com/M-Ashmitha/object_detection_ros/blob/master/image.png)](https://youtu.be/YrKjUU2zmZU)
 
 
