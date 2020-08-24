@@ -9,7 +9,7 @@ INSTALLATION:
    
    ->Download [Protobuf](https://github.com/protocolbuffers/protobuf/releases) and extract it
    
-   ->Clone [cob_perception common](https://github.com/ipa-rmb/cob_perception_common.git) so that we can import detection, detectionarray and rect
+   ->Clone [cob_perception_common](https://github.com/ipa-rmb/cob_perception_common.git) so that we can import detection, detectionarray and rect
    
    ->Now you need to Clone or Download TensorFlow’s Model from Github. Once downloaded and extracted rename the “models-masters” to just “models“.
    
