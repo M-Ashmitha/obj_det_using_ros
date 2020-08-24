@@ -1,4 +1,4 @@
-# obj_det_using_ros
+# Object detection ROS
 I have done this project as an intern in qbotics lab 
 
 **INSTALLATION:**
