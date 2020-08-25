@@ -19,4 +19,4 @@ After installation you can add the code in object_detection folder.
 
 [![click here](https://github.com/M-Ashmitha/object_detection_ros/blob/master/image.png)](https://youtu.be/YrKjUU2zmZU)
 
-Click on the above image for the output video.
+Click on the above image for output video.
